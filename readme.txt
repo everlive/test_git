@@ -2,5 +2,4 @@
 
 "Who's there?"
 
-
-"GIT"
+"Git"
